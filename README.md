@@ -1,0 +1,3 @@
+- Blue Teamer
+- Interested in all things information security, especially threat hunting and malware analysis
+- Sharing my favorite resources and personal projects
